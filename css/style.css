@@ -1099,7 +1099,7 @@ html
 /*      footer      */
 .footer
 {
-    background-color: #d76c819c;
+    background-color: #d76c815d;
     text-align: center;
     padding: 2rem 0;
     margin-top: 5rem;
@@ -1116,7 +1116,7 @@ html
 }
 .footer li
 {
-    background-color: #B03052;
+    background-color: #b03052be;
     float: left;
     list-style-type: none;
     width: 60px;
@@ -1125,6 +1125,11 @@ html
     margin:1rem 0.2rem 0.5rem;
     padding-top: 12px;
 }
+.footer li:hover
+{
+        background-color: #B03052;
+}
+
 .footer li a
 {
     color: #fff;
