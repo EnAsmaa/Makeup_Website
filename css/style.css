@@ -159,7 +159,6 @@ html
 }
 .home-cap p
 {
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
     letter-spacing: 2px;
     font-size: 1rem;
     color: #B3B1B1;
@@ -672,7 +671,7 @@ html
     position: relative;
     padding: 30px 10px;
     color: #fff;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+
 }
 .service-item i
 {
