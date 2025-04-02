@@ -185,6 +185,7 @@ html
     margin-top:2rem ;
     color: #B03052;
     border: 1px solid #fff;
+    cursor: pointer;
 
 }
 .home-cap .btn
