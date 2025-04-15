@@ -689,10 +689,10 @@ html
 }
 .prices .container
 {
-    width:75%;
+    width:80%;
     position: absolute;
     top: 10%;
-    left: 14%;
+    left: 10%;
    
 }
 .prices> h2
@@ -715,23 +715,24 @@ html
 }
 .prices-item
 {
-    width: 30%;
+    width: 28%;
     border: 1px solid #B03052;
-    padding:2rem 0;
+    padding:2.5rem 0;
     border-radius: 15px;
     float: left;
-    margin-top: 2rem;
+    margin-top: 2.5rem;
     text-align: center;
     position: relative;
 }
 .prices-item1
 {
     margin-right: 2rem;
+     margin-left: 1.5rem;
 }
 .prices-item2
 {
-    margin-right: 1rem;
-    margin-left: 1rem;
+    margin-right: 2em;
+    margin-left: 2rem;
 }
 .prices-item3
 {
