@@ -173,7 +173,6 @@ html
 .home-cap span
 {
     color: #B03052;
-    text-shadow: 0px 1px 5px #fff;
 }
 .home-cap button
 {
@@ -1120,8 +1119,8 @@ html
     background-color: #b03052be;
     float: left;
     list-style-type: none;
-    width: 60px;
-    height: 60px;
+    width: 50px;
+    height: 50px;
     border-radius: 50%;
     margin:1rem 0.2rem 0.5rem;
     padding-top: 12px;
